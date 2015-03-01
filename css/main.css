@@ -1,0 +1,14 @@
+.navbar {
+	margin-bottom: 20px;
+}
+.info {
+	margin: 0 auto;
+	padding-top: 60px;
+}
+.col-sm-4 {
+	border: 2px;
+	border-color: black;
+}
+h3 {
+	text-align: center;
+}
