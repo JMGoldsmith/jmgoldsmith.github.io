@@ -9,6 +9,15 @@
 	border: 2px;
 	border-color: black;
 }
-h3 {
-	text-align: center;
+img {
+	height: 40px;
+	width: 40px;
+}
+.navbar-collapse{
+	padding-top: 5px;
+}
+.header-text {
+	padding-top: 10px;
+	font-size: 20px;
+	color: white;
 }
