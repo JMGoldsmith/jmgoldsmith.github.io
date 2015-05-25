@@ -21,7 +21,11 @@ img {
 	font-size: 20px;
 	color: white;
 }
-.linkage, .blogs, .projects {
+.linkage {
 	float: none;
 	margin: 0 auto;
+}
+#frame {
+    width: 500px;
+    height: 500px;
 }
